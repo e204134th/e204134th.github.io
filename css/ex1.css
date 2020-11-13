@@ -1,0 +1,33 @@
+h1{
+    color:#d3d3d3;
+    text-align:center;
+    background-color:#778899;
+}
+
+table{
+    background-color:antiquewhite;
+}
+
+td{
+    text-align: center;
+    font-weight:bold;
+}
+
+body{
+     background-image:url(../images1/05.jpg);
+}
+
+h3{
+    color:#6495ed;
+    text-align:center;
+    background-color:#b0c4de;
+}
+
+ol{
+    background-image:url(../images1/06.jpg);
+}
+
+li{
+    font-weight:bold;
+}
+
