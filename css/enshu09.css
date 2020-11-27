@@ -1,0 +1,14 @@
+/*pタグの中でもbluecolorのクラスのものだけ装飾*/
+P.bluecolor{
+    color:blue;
+}
+
+h1#kudo{
+    font-family: impact;
+    font-size: 60px;
+}
+
+/*h2のタグの上にマウスがあるときだけ背景をアクアにする*/
+h2:hover{
+    background-color: aqua
+}

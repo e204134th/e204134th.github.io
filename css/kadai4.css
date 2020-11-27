@@ -1,0 +1,24 @@
+body{
+     background-image:url(../images1/05.jpg);
+}
+
+.manga{
+    text-align: center;
+    color:#f0f8ff;
+    background-color:#000000;
+}
+h2#kingudam{
+    color:#7fffd4;
+    text-align: center;
+    background-color:#2f4f4f;
+}
+h2#hagane{
+    color:#eee8aa;
+    text-align: center;
+    background-color:#808000;
+}
+.link{
+    color:#6495ed;
+    text-align: center;
+    background-color:#b0c4de;
+}
