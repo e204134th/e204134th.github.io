@@ -1,0 +1,77 @@
+body{
+     background-image:url(../images/04.jpg);
+}
+div.osusume{
+    height:50px;
+    background-color:maroon;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: "impact";
+    text-align: center;
+    margin-bottom: 20px;
+}
+div.setu{
+    font-size:20px;
+}
+div.menu{
+    display: inline-block;
+    font-size:18px;
+    margin: auto;
+    text-align:center;
+}
+span.janru{
+    display: inline-block;
+    vertical-align: top;
+    width:260px;
+    height:40px;
+    background-color:yellow;
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid #66CCFF;
+}
+.basuke{
+    background-color: aliceblue;
+    font-size: 35px;
+    font-family: fantasy;
+    text-align: center;
+    color: blueviolet;
+}
+.sakka{
+    background-color: aliceblue;
+    font-size: 35px;
+    font-family: fantasy;
+    text-align: center;
+    color: blueviolet;
+}
+.yakyu{
+    background-color: aliceblue;
+    font-size: 35px;
+    font-family: fantasy;
+    text-align: center;
+    color: blueviolet;
+}
+div.images{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    font-size: 20px;
+    text-align: center;
+}
+hr{
+    height: 5px;
+    background-color: black;
+    width: 100%;
+}
+div.footer{
+    text-align:center;
+    font-size: 30px;
+}
+    
